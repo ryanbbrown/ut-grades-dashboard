@@ -1,6 +1,6 @@
 # UT Austin Historical Course Grades Dashboard
 
-An interactive dashboard for exploring historical grade distributions across courses at the University of Texas at Austin. Built using Altair.
+An interactive dashboard for exploring historical grade distributions across courses at the University of Texas at Austin. Built using Altair. Live interactive dashboard [here](https://ryanbbrown.com/files/ut-grades-dashboard.html).
 
 ![UT Grades Dashboard](output/ut-grades-dashboard.svg)
 
